@@ -384,10 +384,10 @@ andre@neural-core:~$ █
 <div align="center">
 
 <a href="https://github.com/andregarciaaaaa"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" /></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" /></a>
-<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=bd00ff" /></a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=bd00ff" /></a>
-<a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff9f" /></a>
+<a href="https://www.linkedin.com/in/andresalvalagio"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" /></a>
+<a href="mailto:andrelucasgarcia07@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=bd00ff" /></a>
+<a href="https://www.instagram.com/andre.salvalagio"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=bd00ff" /></a>
+<a href="https://wa.me/5544999385226"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff9f" /></a>
 
 <br/><br/>
 
